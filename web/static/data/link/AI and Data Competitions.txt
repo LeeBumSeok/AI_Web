@@ -1,0 +1,8 @@
+Kaggle()https://www.kaggle.com/()Platform
+DACON()https://dacon.io/()Platform
+RecSys()https://recsys.acm.org/recsys21/challenge/()Conference and Workshop
+TextGrpahs()https://sites.google.com/view/textgraphs2021#h.qx3xxu3ckj4()Conference and Workshop
+DSTC()https://dstc10.dstc.community/home/()Conference and Workshop
+DialDoc()https://doc2dial.github.io/workshop2021/shared.html()Conference and Workshop
+CODI()https://sites.google.com/view/codi-2021/shared-tasks()Conference and Workshop
+CodaLab()https://competitions.codalab.org/competitions/()etc

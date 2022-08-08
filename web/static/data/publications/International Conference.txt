@@ -1,0 +1,37 @@
+Detecting Social Distress during COVID-19 Pandemic: Deep-Learning Classification and Tracking of Anxiety in Social-Media()International Communication Association Conference (ICA), 2022
+Visual Context Embeddings for Zero-Shot Recognition()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2022
+Graph Based Network with Contextualized Representations of Turns in Dialogue()Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021
+Depth-Enhanced Gaze Following Method()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2021
+Graph Convolutional Networks for Skeleton-Based Action Recognition with LSTM using Tool-Information()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2021
+Dependency Tree Positional Encoding Method for Relation Extraction()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2021
+A Multilevel Analysis of the Network Topology Effects on Communication Disparity in Facebook()70th Annual International Communication Association Conference (ICA), 2020
+Care Guide System for Caregivers of Person with Dementia()42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2020
+Similarity-based Calibration Method for Zero-Shot Recognition in Multi-object Scenes()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2020
+Ontology-Based Knowledge model for Human-Robot Interactive Services()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2020
+Automatic Baseball Commentary Generation Using Deep Learning()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2020
+A Tool for Spatio-Temporal Analysis of Social Anxiety with Twitter Data()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2019
+Improving RNN based Recommendation by Embedding-Weight Tying()IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018
+Knowledge based Dialog Management System for Social Human-Robot Interaction()ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2018
+Robot Knowledge Ontology for Personalized Service Robots()International Conference on Green and Human Information Technology (ICGHIT), 2017
+SNS data Visualization for analyzing spatial-temporal distribution of social anxiety()International Conference on Emerging Databases – Technologies, Applications, and Theory (EDB), Vol.6 No.1, 2016
+Incremental Iteration Method for Fast PageRank Computation()ICUIMC - ACM International Conference on Ubiquitous Information Management and Communication (ICUIMC), 2015
+Content Type Based Adaptation in Collaborative Recommendation()ACM Research in Adaptive and Convergent Systems (RACS), 2014
+Metadata Based Combined Approach for Effective Collaborative Recommendation()ACM Research in Adaptive and Convergent Systems (RACS), 2014
+Weighted Combination of Q&A Retrieval Models Based on Part-of-speech of Question Word()International Conference on Information Science and Applications (ICISA), 2014
+TPE Based Tuple Extraction Method for Question and Answering System()International Conference on Information Science and Applications (ICISA), 2014
+Computerized adaptive testing and learning using bayesian network()ACM International Conference on Intelligent User Interfaces (IUI), 2013
+A data partitioning approach for hierarchical clustering()ACM International Conference on Ubiquitous Information Management and Communication (ICUIMC), 2013
+A game based learning content for tutoring in simplifying boolean functions()IEEE International Conference on Advanced Learning Technologies (ICALT), 2010
+Educational Information Search Service Using Ontology()IEEE International Conference on Advanced Learning Technologies (ICALT), 2007
+Automated Extraction and Visualization of Protein Interactions from Biological Abstracts()Asia Pacific International Conference (APIC), 2006
+Design and Implementation of Platform Profile Analyzer for Multi-Platform based E-Learning Service()Asia Pacific International Symposium on Information Technology (APIC-IST), 2005
+A Flexible System Architecture for E-Learning()Asia-Pacific International Symposium on Information Technology (APIC-IST), 2005
+Automated Extraction of Protein-to-protein Interactions from Biological Literatures()International Proteomics Conference (KHUPO), 2004
+Learning to Select Text Databases with Neural Nets()International Conference on Machine Learning (ICML), 2000
+Multi-agent Learning Approach to WWW Information Retrieval using Neural Network()ACM International Conference on Intelligent User Interfaces (IUI'99), 1999
+Neural Net Agent for Discovering Text Databases on the Web()International Conference on Advances in Databases and Information Systems (ADBIS'99), 1999
+Discovering Text Databases on the Internet: A Neural Net Agent Approach()International IEEE Systems, Man and Cybernetics Conference (SMC'99), Vol. II, 1999
+Hierarchically Organized Neural Net Agents for Distributed Web Information Retrieval()IEEE Computer Software and Applications Conference (COMPSAC'99), 1999
+Neural Network Based Web Information Agent()ACM CIKM'98 Workshop on Web Information and Data Management (WIDM'98), 1998
+A Knowledge Acquisition tool for Developing Diagnosis Systems()IITT International Conference on Expert Systems Applications and Artificial Intelligence, 1996
+Approach to Building an Expert System for Fault Diagnosis in Air Defense Artilleries,()IASTED International Conference on Artificial Intelligence, Expert Systems and Neural Networks, Switzerland, 1994.
