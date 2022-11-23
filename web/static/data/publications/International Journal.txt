@@ -1,3 +1,4 @@
+LMGAN: Linguistically Informed Semi-Supervised GAN with Multiple Generators()Sensors, Vol.22, No.22, 2022
 Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction()Sensors, Vol.22, No.13, 2022
 UAT: Universal Attention Transformer for Video Captioning()Sensors, Vol.22, No.13, 2022
 Effective Pre-Training Method and Its Compositional Intelligence for Image Captioning()Sensors, Vol.22, No.9, 2022
