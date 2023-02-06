@@ -9,3 +9,4 @@ Hyun-Woo Kim()kimhw199807@gmail.com()()Action recognition, Video Classification,
 So-Yeon Park()pparksso0308@gmail.com()()Natural Language Processing, Quenstion Answering()parksoyeon.jpg
 Beom-Seok Lee()qpwoeiru6486@gmail.com()()Natural Language Processing, Deep Learning()leebeomseok.jpg
 Yu-Na Jung()sts07032@gmail.com()()Computer Vision, Multimodal Learning()jungyuna.jpg
+Ye-Dam Kwon()yaidam0831@gmail.com()()Natural Language Processing()kwonyedam.jpg
