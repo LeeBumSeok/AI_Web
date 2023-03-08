@@ -5,3 +5,8 @@ Soo-bin Park()soobin419@hanyang.ac.kr()()Computer Vision, Super Resolution()Park
 Min-ji Jung()jminji98@hanyang.ac.kr()()Natural Language Processing, Text Generation()Minji-Jung.png
 Sangjun Lee()leeesangjun@hanyang.ac.kr()()Multi-Modal, Deep Learning()Sangjun.jpg
 Giseung Kwon()kwonga@hanyang.ac.kr()()DeepLearing, Multimodal()Giseung.jpg
+Hyun-Woo Kim()commiya2@hanyang.ac.kr()()Action recognition, Video Classification, Multi Modal()kimhyunwoo.jpg
+So-Yeon Park()pparksso0308@hanyang.ac.kr()()Natural Language Processing, Question Answering()parksoyeon.jpg
+Beom-Seok Lee()ijkoo16@hanyang.ac.kr()()Natural Language Processing, Deep Learning()leebeomseok.jpg
+Yu-Na Jung()dbsdk@hanyang.ac.kr()()Computer Vision, Multimodal Learning()jungyuna.jpg
+Ye-Dam Kwon()yaidam0831@hanyang.ac.kr()()Natural Language Processing()kwonyedam.jpg

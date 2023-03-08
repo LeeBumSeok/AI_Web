@@ -19,7 +19,6 @@ def get_data(sentences, is_one=True):
         text = text.replace('"', "")
         text = text.strip()
         requestJson = {
-			"access_key": accessKey,
 			"argument": {
 				"text": text,
 				"analysis_code": analysisCode
@@ -30,7 +29,7 @@ def get_data(sentences, is_one=True):
         response = http.request(
             "POST",
             openApiURL,
-            headers={"Content-Type": "application/json; charset=UTF-8"},
+            headers={"Content-Type": "application/json; charset=UTF-8", "Authorization" : accessKey},
             body=json.dumps(requestJson)
             )
 
