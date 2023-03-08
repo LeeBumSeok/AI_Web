@@ -1,6 +1,6 @@
 Hae-Sung Park()hisung6759@naver.com()()Video classification, Action recognition()parkhaesung.jpg
 Jee-Woo Sul()jeewoo25@hanyang.ac.kr()()Natural Language Processing, Text Summarization()Sul-Jee-Woo.JPG
-Min-ji Kim()kmji17@hanyang.ac.kr()()Natural Language Processing, Representation Learning()Minji-Kim.jpg
+Min-ji Kim()kmji17@hanyang.ac.kr()()Natural Language Processing, Contrastive Representation Learning()Minji-Kim.jpg
 Soo-bin Park()soobin419@hanyang.ac.kr()()Computer Vision, Super Resolution()Park-Soobin.jpg
 Min-ji Jung()jminji98@hanyang.ac.kr()()Natural Language Processing, Text Generation()Minji-Jung.png
 Sangjun Lee()leeesangjun@hanyang.ac.kr()()Multi-Modal, Deep Learning()Sangjun.jpg
