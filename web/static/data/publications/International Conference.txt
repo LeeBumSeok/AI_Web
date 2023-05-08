@@ -1,3 +1,4 @@
+Balancing Lexical and Semantic Quality in Abstractive Summarization()Annual Meeting of the Association for Computational Linguistics (ACL), 2023
 Convolutional Method for Modeling Video Temporal Context Effectively in Transformer()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2023
 Detecting Social Distress during COVID-19 Pandemic: Deep-Learning Classification and Tracking of Anxiety in Social-Media()International Communication Association Conference (ICA), 2022
 Visual Context Embeddings for Zero-Shot Recognition()ACM SIGAPP Symposium on Applied Computing (ACM SAC), 2022
