@@ -2,24 +2,32 @@ from flask import Blueprint, render_template, request, jsonify
 from optparse import OptionParser
 import socket, random, sys
 
-home = Blueprint('home', __name__, template_folder='templates')
+home = Blueprint("home", __name__, template_folder="templates")
 
 # ChatScript
 cs_host = "localhost"
 cs_port = 1024
 cs_addr = (cs_host, cs_port)
 
-cs_bot = 'ailabfive'
-cs_master = 'user'
+cs_bot = "ailabfive"
+cs_master = "user"
+
 
 @home.route("/")
 @home.route("/main")
 def main():
     return render_template("main.html")
 
+
 @home.route("/intro")
 def intro():
     return render_template("intro.html")
+
+
+@home.route("/policy")
+def policy():
+    return render_template("policy.html")
+
 
 @home.route("/research")
 def research():
@@ -27,16 +35,19 @@ def research():
     researches = []
     while True:
         line = f.readline()
-        if not line: break
+        if not line:
+            break
         line = line.rstrip()
         info = line.split("()")
-        researches.append({"title": info[0], "content":info[1]})
+        researches.append({"title": info[0], "content": info[1]})
     f.close()
     return render_template("research.html", researches=researches)
+
 
 @home.route("/contact")
 def contact():
     return render_template("contact.html")
+
 
 def get_link(fname):
     fname = "web/static/data/link/" + fname + ".txt"
@@ -44,26 +55,37 @@ def get_link(fname):
     links = {}
     while True:
         line = f.readline()
-        if not line: break
+        if not line:
+            break
         line = line.rstrip()
         info = line.split("()")
         try:
-            links[info[2]] = links.get(info[2], []) + [{"title":info[0], "link":info[1]}]
+            links[info[2]] = links.get(info[2], []) + [
+                {"title": info[0], "link": info[1]}
+            ]
         except Exception as e:
             pass
     f.close()
     return links
 
+
 @home.route("/link")
 def link():
     links = []
-    title = ["Artificial Intelligence", "AI and Data Competitions", "AI Applications", "AI Courses", "Datasets"]
+    title = [
+        "Artificial Intelligence",
+        "AI and Data Competitions",
+        "AI Applications",
+        "AI Courses",
+        "Datasets",
+    ]
 
     for t in title:
         l = get_link(t)
         links.append({"title": t, "links": l})
 
     return render_template("link.html", links=links)
+
 
 # @home.route("/chatbot")
 # def chatbot():
