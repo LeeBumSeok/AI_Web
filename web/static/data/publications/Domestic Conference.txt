@@ -2,7 +2,6 @@
 통사론적 다양성을 고려한 문장 임베딩 대조 학습 기법()한국컴퓨터 종합학술대회, 2023
 개방형 텍스트 생성에서 엔트로피 측정을 통해 올 수 있는 토큰을 판별하는 방법()한국컴퓨터 종합학술대회, 2023
 구 구문분석을 위한 양방향 Masked attention과 N-gram Span Attention()한국컴퓨터 종합학술대회, 2023
-추상 요약에서 어휘 품질과 의미론적 유사도를 고려한 재순위화 모델()한국컴퓨터 종합학술대회, 2023
 Convolutional Approach to learning Temporal Feature Effectively in Transformer()한국소프트웨어종합학술대회, 2022
 BERT의 은닉 계층과 다중 Generator를 활용한 Semi-Supervised GAN()한국컴퓨터 종합학술대회, 2022
 다중 문체 변환을 위한 Multi-Discriminator GAN()한국컴퓨터 종합학술대회, 2022
